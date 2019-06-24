@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Caso Pratico 1</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
+    <string name="adicionar_cidade">Add Cidades</string>
+    <string name="listar_cidades">Listar Cidades</string>
+    <string name="guardar_cidade">Guardar Cidades</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="Nome">Nome da Cidade</string>
+    <string name="inserir_cidades">Inserir Cidades</string>
+    <string name="inicio">INICIO</string>
+    <string name="cidades_introducao">CIDADES INTRODUCÃO</string>
+    <string name="data">DATA</string>
+    <string name="cidades_mapas">CIDADES MAPAS</string>
+    <string name="chamar">CHAMAR</string>
+    <string name="sms">SMS</string>
+    <string name="criador">CRIADOR</string>
+    <string name="escolher_opcao">ESCOLHA UMA OPCÃO</string>
+    <string name="title_dialog_numero"> Numero Escolhido</string>
+    <string name="string_envia">Enviar</string>
+    <string name="guardar_informacao">Guardar Informação</string>
+    <string name="erro_calculo">Calculo Impossivel</string>
+    <string name="falta">Falta</string>
+
+    <string name="para"> Dia para seu</string>
+    <string name="aniversario">aniversario</string>
+    <string name="valordef">valordia</string>
+    <string name="countniver">countniver</string>
+    <string name="informacao_criador">Dados Criador</string>
+    <string name="nome_cirador">Nome Carlos Lopes</string>
+    <string name="telefone">Telefone 964954811</string>
+    <string name="localidade">Localidade Lisboa</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="ir_para_local">Ir para Local</string>
+
+</resources>

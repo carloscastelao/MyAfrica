@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">" 1st Exersice"</string>
+    <string name="adicionar_cidade">Add cities</string>
+    <string name="listar_cidades">List cities</string>
+    <string name="guardar_cidade">save cities</string>
+    <string name="cancelar">Cancel</string>
+    <string name="Nome">Name</string>
+    <string name="inserir_cidades">Insert cities</string>
+    <string name="inicio">HOME</string>
+    <string name="cidades_introducao">CITIES INTRODUCTION</string>
+    <string name="data">DATE</string>
+    <string name="cidades_mapas">MAPS CITIES</string>
+    <string name="chamar">CALL</string>
+    <string name="sms">SMS</string>
+    <string name="criador">DEVELOPER</string>
+    <string name="escolher_opcao">CHOOSE AN OPTION</string>
+    <string name="title_dialog_numero">Number Selected</string>
+    <string name="string_envia">Sent</string>
+    <string name="guardar_informacao">Save Information</string>
+    <string name="erro_calculo">Impossible Calculation</string>
+    <string name="falta">Still</string>
+    <string name="dia">Days</string>
+    <string name="para">Days for your</string>
+    <string name="aniversario">birthday</string>
+    <string name="informacao_criador">Developer Information</string>
+    <string name="nome_cirador">" Name Carlos Lopes"</string>
+    <string name="telefone">Phone 964954811</string>
+    <string name="localidade">Address Lisboa</string>
+    <string name="ir_para_local">Go to the Site</string>
+    <string name="valordef">valordia</string>
+    <string name="countniver">countniver</string>
+    <string name="title_activity_maps">Map</string>
+</resources>

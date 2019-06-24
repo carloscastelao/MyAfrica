@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Cidades_Mapas">
+
+    <!-- TODO: Update blank fragment layout -->
+  <LinearLayout
+      android:layout_width="match_parent"
+      android:layout_height="match_parent"
+      android:orientation="vertical">
+
+
+
+
+      <EditText
+          android:id="@+id/id_editText_nome"
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+          android:inputType="textPersonName"
+          android:hint="@string/Nome" />
+      <com.google.android.gms.maps.MapView
+          android:id="@+id/mapView2"
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+          android:layout_weight="1" />
+
+      <Button
+          android:id="@+id/id_irpara_local"
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+          android:text="@string/ir_para_local" />
+  </LinearLayout>
+
+</FrameLayout>

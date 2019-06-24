@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+<EditText
+    android:id="@+id/id_numeros_tel"
+    android:layout_marginTop="20dp"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"/>
+
+    <EditText
+        android:layout_marginTop="20dp"
+        android:id="@+id/id_mensagem_text"
+        android:layout_width="match_parent"
+        android:layout_height="250dp"
+        android:ems="10"
+        android:inputType="textLongMessage"/>
+
+    <Button
+        android:id="@+id/id_enviar_sms"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/string_envia"
+        android:layout_marginTop="20dp"/>
+</LinearLayout>
